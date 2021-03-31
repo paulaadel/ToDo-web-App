@@ -1,0 +1,27 @@
+
+.done
+{
+  text-decoration: line-through;
+}
+.to
+{
+  cursor: pointer;
+}
+label
+{
+  font-size: 20px;
+}
+p{
+  font-size: 16px;
+}
+.card{
+  transition: all .5s !important;
+  border-radius:10px;
+}
+.card:hover
+{
+  box-shadow: 0 0 11px rgba(15, 15, 15, 0.9);
+
+}
+
+
